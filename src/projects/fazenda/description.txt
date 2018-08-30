@@ -1,0 +1,50 @@
+Projeto de Arcádio Macedo e Laís Macedo
+
+---------------------------------------------------------------------------
+
+Esta simulação se aplica ao contexto de uma fazenda de gado bovino.
+
+Os Nós 
+fazenda: Antena - um nó fixo que monitora os bois no pasto
+fazenda: Boi - um nó móvel que representa o boi no pasto
+
+Para executar esta simulação
+
+1 - Gere nós com as seguintes configurações
+        Number of Nodes: 9
+        Distribution Model: fazenda:GridDistribution;
+        Node Implementation: fazenda:Antena;
+        Connectivity Model: fazenda:AntennaConnection;
+        Interference Model: noInterference;
+        Mobility Model: noMobility;
+        Reliability Model: ReliableDelivery.
+
+2 - Gere nós com as seguintes configurações
+        Number of Nodes: 100
+        Distribution Model: Random;
+        Node Implementation: fazenda:Boi;
+        Connectivity Model: fazenda:AntennaConnection;
+        Interference Model: noInterference;
+        Mobility Model: fazenda:TempIdeal;
+        Reliability Model: ReliableDelivery.
+
+Nota: em tempo de simulação é possível definir uma temperatura fixa em um
+nó Antena, pausando e abrndo o menu do nó desejado, escolhendo a opção 
+[Definir Temperatura]
+
+
+
+no arquivo de XML de configuração (config.xml) 
+
+# os parametros para definir do intervalo de oscilação diaria da temperatura 
+podem ser definidos na tag <clima> nos valores <tempmin> e <tempmax>;
+
+# os parametros para definir do intervalo de temperatura considerada ideal
+para o boi na tag <Boi> nos valores <minIdeal> e <maxIdeal>;
+
+# os parametros para definir o numero de rounds que define o periodo de uma
+hora pode ser designado na tag <Hora> este defina automatiamente o periodo de
+1 dia também
+
+# é possível habilitar uma imagem de fundo no mapa da simulação, mudando 
+o atributo <useMap> para "true".

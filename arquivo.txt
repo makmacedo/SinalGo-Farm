@@ -1,0 +1,1 @@
+hora: 0:00 Setor: 9 Temperatura: 0.0	Bois: 0----------- hora: 0:00 Setor: 1 Temperatura: 0.0	Bois: 0

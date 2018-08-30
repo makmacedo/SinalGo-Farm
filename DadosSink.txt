@@ -1,0 +1,1483 @@
+Sink recebeu do nó 22:
+Temperatura: 26.420532
+Umidade: 27.604633
+
+Sink recebeu do nó 35:
+Temperatura: 23.437397
+Umidade: 35.341133
+
+Sink recebeu do nó 41:
+Temperatura: 2.9666467
+Umidade: 5.8611255
+
+Sink recebeu do nó 37:
+Temperatura: 24.062859
+Umidade: 70.80951
+
+Sink recebeu do nó 22:
+Temperatura: 21.891146
+Umidade: 13.02924
+
+Sink recebeu do nó 35:
+Temperatura: 27.855753
+Umidade: 23.984224
+
+Sink recebeu do nó 41:
+Temperatura: 11.923847
+Umidade: 18.345728
+
+Sink recebeu do nó 37:
+Temperatura: 30.162464
+Umidade: 27.403397
+
+Sink recebeu do nó 22:
+Temperatura: 3.7437794
+Umidade: 13.186215
+
+Sink recebeu do nó 35:
+Temperatura: 3.8291044
+Umidade: 8.760459
+
+Sink recebeu do nó 41:
+Temperatura: 2.6270504
+Umidade: 7.9577208
+
+Sink recebeu do nó 37:
+Temperatura: 29.799688
+Umidade: 65.1669
+
+Sink recebeu do nó 22:
+Temperatura: 4.867046
+Umidade: 15.245633
+
+Sink recebeu do nó 35:
+Temperatura: 0.99509925
+Umidade: 18.847834
+
+Sink recebeu do nó 41:
+Temperatura: 31.199963
+Umidade: 22.386806
+
+Sink recebeu do nó 37:
+Temperatura: 11.738119
+Umidade: 39.29363
+
+Sink recebeu do nó 22:
+Temperatura: 5.5516443
+Umidade: 32.2099
+
+Sink recebeu do nó 35:
+Temperatura: 8.403352
+Umidade: 58.001644
+
+Sink recebeu do nó 41:
+Temperatura: 15.952643
+Umidade: 45.04269
+
+Sink recebeu do nó 37:
+Temperatura: 4.780628
+Umidade: 13.720797
+
+Sink recebeu do nó 22:
+Temperatura: 25.345005
+Umidade: 43.278614
+
+Sink recebeu do nó 35:
+Temperatura: 30.89842
+Umidade: 19.621656
+
+Sink recebeu do nó 41:
+Temperatura: 27.105362
+Umidade: 60.521557
+
+Sink recebeu do nó 37:
+Temperatura: 7.327129
+Umidade: 43.857388
+
+Sink recebeu do nó 22:
+Temperatura: 2.021633
+Umidade: 54.878532
+
+Sink recebeu do nó 35:
+Temperatura: 3.2317002
+Umidade: 18.355772
+
+Sink recebeu do nó 41:
+Temperatura: 2.0735757
+Umidade: 65.62044
+
+Sink recebeu do nó 37:
+Temperatura: 4.439145
+Umidade: 5.384915
+
+Sink recebeu do nó 22:
+Temperatura: 7.817192
+Umidade: 36.164074
+
+Sink recebeu do nó 35:
+Temperatura: 17.202232
+Umidade: 64.87376
+
+Sink recebeu do nó 41:
+Temperatura: 30.351166
+Umidade: 34.901897
+
+Sink recebeu do nó 37:
+Temperatura: 34.444546
+Umidade: 1.2902731
+
+Sink recebeu do nó 22:
+Temperatura: 35.60368
+Umidade: 55.71095
+
+Sink recebeu do nó 35:
+Temperatura: 23.647621
+Umidade: 24.178478
+
+Sink recebeu do nó 41:
+Temperatura: 33.765785
+Umidade: 28.768925
+
+Sink recebeu do nó 37:
+Temperatura: 23.094458
+Umidade: 2.6307282
+
+Sink recebeu do nó 22:
+Temperatura: 21.23814
+Umidade: 20.832123
+
+Sink recebeu do nó 35:
+Temperatura: 12.557119
+Umidade: 12.985431
+
+Sink recebeu do nó 41:
+Temperatura: 9.540773
+Umidade: 5.818366
+
+Sink recebeu do nó 37:
+Temperatura: 28.240963
+Umidade: 64.244865
+
+Sink recebeu do nó 22:
+Temperatura: 39.020615
+Umidade: 58.992264
+
+Sink recebeu do nó 35:
+Temperatura: 13.860788
+Umidade: 55.01602
+
+Sink recebeu do nó 41:
+Temperatura: 26.297575
+Umidade: 8.657398
+
+Sink recebeu do nó 37:
+Temperatura: 30.93689
+Umidade: 63.820213
+
+Sink recebeu do nó 22:
+Temperatura: 15.936102
+Umidade: 44.488087
+
+Sink recebeu do nó 35:
+Temperatura: 27.315676
+Umidade: 18.967941
+
+Sink recebeu do nó 41:
+Temperatura: 7.876906
+Umidade: 13.360672
+
+Sink recebeu do nó 37:
+Temperatura: 5.844034
+Umidade: 18.731749
+
+Sink recebeu do nó 22:
+Temperatura: 28.712662
+Umidade: 69.49945
+
+Sink recebeu do nó 35:
+Temperatura: 17.839485
+Umidade: 42.16539
+
+Sink recebeu do nó 41:
+Temperatura: 15.91912
+Umidade: 8.814149
+
+Sink recebeu do nó 37:
+Temperatura: 35.880928
+Umidade: 50.352257
+
+Sink recebeu do nó 22:
+Temperatura: 13.787802
+Umidade: 46.204533
+
+Sink recebeu do nó 35:
+Temperatura: 15.984174
+Umidade: 11.389105
+
+Sink recebeu do nó 41:
+Temperatura: 16.400251
+Umidade: 34.25865
+
+Sink recebeu do nó 37:
+Temperatura: 15.528751
+Umidade: 56.674446
+
+Sink recebeu do nó 22:
+Temperatura: 8.774806
+Umidade: 5.1300044
+
+Sink recebeu do nó 35:
+Temperatura: 38.9878
+Umidade: 53.657013
+
+Sink recebeu do nó 41:
+Temperatura: 14.982207
+Umidade: 37.084305
+
+Sink recebeu do nó 37:
+Temperatura: 10.443143
+Umidade: 18.109655
+
+Sink recebeu do nó 22:
+Temperatura: 14.576142
+Umidade: 19.545609
+
+Sink recebeu do nó 35:
+Temperatura: 26.431784
+Umidade: 67.382065
+
+Sink recebeu do nó 41:
+Temperatura: 31.057825
+Umidade: 58.865288
+
+Sink recebeu do nó 37:
+Temperatura: 31.127825
+Umidade: 10.928874
+
+Sink recebeu do nó 22:
+Temperatura: 16.107265
+Umidade: 40.814697
+
+Sink recebeu do nó 35:
+Temperatura: 25.748055
+Umidade: 70.03322
+
+Sink recebeu do nó 41:
+Temperatura: 32.5416
+Umidade: 39.21413
+
+Sink recebeu do nó 37:
+Temperatura: 17.834446
+Umidade: 40.52632
+
+Sink recebeu do nó 22:
+Temperatura: 39.527344
+Umidade: 52.519356
+
+Sink recebeu do nó 35:
+Temperatura: 0.3497846
+Umidade: 46.63692
+
+Sink recebeu do nó 41:
+Temperatura: 26.632233
+Umidade: 51.816795
+
+Sink recebeu do nó 37:
+Temperatura: 25.70447
+Umidade: 7.8430567
+
+Sink recebeu do nó 22:
+Temperatura: 37.189144
+Umidade: 46.03512
+
+Sink recebeu do nó 35:
+Temperatura: 16.736313
+Umidade: 29.849941
+
+Sink recebeu do nó 41:
+Temperatura: 6.314813
+Umidade: 41.94947
+
+Sink recebeu do nó 37:
+Temperatura: 25.582487
+Umidade: 24.700893
+
+Sink recebeu do nó 22:
+Temperatura: 9.340333
+Umidade: 7.8835053
+
+Sink recebeu do nó 35:
+Temperatura: 39.001102
+Umidade: 22.181702
+
+Sink recebeu do nó 41:
+Temperatura: 31.965216
+Umidade: 25.002508
+
+Sink recebeu do nó 37:
+Temperatura: 17.513752
+Umidade: 54.646065
+
+Sink recebeu do nó 22:
+Temperatura: 0.46460855
+Umidade: 32.177307
+
+Sink recebeu do nó 35:
+Temperatura: 32.45319
+Umidade: 27.14579
+
+Sink recebeu do nó 41:
+Temperatura: 28.139963
+Umidade: 50.38361
+
+Sink recebeu do nó 37:
+Temperatura: 6.730805
+Umidade: 59.77887
+
+Sink recebeu do nó 22:
+Temperatura: 2.4986584
+Umidade: 42.03542
+
+Sink recebeu do nó 35:
+Temperatura: 25.691708
+Umidade: 6.3471837
+
+Sink recebeu do nó 41:
+Temperatura: 18.885363
+Umidade: 70.65412
+
+Sink recebeu do nó 37:
+Temperatura: 12.632202
+Umidade: 63.638397
+
+Sink recebeu do nó 22:
+Temperatura: 19.37677
+Umidade: 57.581783
+
+Sink recebeu do nó 35:
+Temperatura: 29.483767
+Umidade: 41.01682
+
+Sink recebeu do nó 41:
+Temperatura: 14.608031
+Umidade: 40.471375
+
+Sink recebeu do nó 37:
+Temperatura: 18.988174
+Umidade: 17.348255
+
+Sink recebeu do nó 22:
+Temperatura: 8.073113
+Umidade: 58.01446
+
+Sink recebeu do nó 35:
+Temperatura: 0.058499455
+Umidade: 17.030098
+
+Sink recebeu do nó 41:
+Temperatura: 14.8856945
+Umidade: 2.0560577
+
+Sink recebeu do nó 37:
+Temperatura: 1.9925739
+Umidade: 30.176033
+
+Sink recebeu do nó 22:
+Temperatura: 7.736659
+Umidade: 52.07819
+
+Sink recebeu do nó 35:
+Temperatura: 36.99303
+Umidade: 44.427044
+
+Sink recebeu do nó 41:
+Temperatura: 6.982105
+Umidade: 39.607693
+
+Sink recebeu do nó 37:
+Temperatura: 12.725814
+Umidade: 24.465374
+
+Sink recebeu do nó 22:
+Temperatura: 1.3231463
+Umidade: 29.941156
+
+Sink recebeu do nó 35:
+Temperatura: 16.301329
+Umidade: 44.265865
+
+Sink recebeu do nó 41:
+Temperatura: 40.34231
+Umidade: 60.066814
+
+Sink recebeu do nó 37:
+Temperatura: 11.379911
+Umidade: 33.704243
+
+Sink recebeu do nó 22:
+Temperatura: 18.56734
+Umidade: 63.25883
+
+Sink recebeu do nó 35:
+Temperatura: 38.383575
+Umidade: 1.1516309
+
+Sink recebeu do nó 41:
+Temperatura: 0.122861564
+Umidade: 22.807707
+
+Sink recebeu do nó 37:
+Temperatura: 15.372707
+Umidade: 58.424442
+
+Sink recebeu do nó 22:
+Temperatura: 33.91468
+Umidade: 46.688267
+
+Sink recebeu do nó 35:
+Temperatura: 25.236202
+Umidade: 15.323991
+
+Sink recebeu do nó 41:
+Temperatura: 27.029007
+Umidade: 41.943756
+
+Sink recebeu do nó 37:
+Temperatura: 7.1543307
+Umidade: 25.0147
+
+Sink recebeu do nó 22:
+Temperatura: 27.147308
+Umidade: 10.337343
+
+Sink recebeu do nó 35:
+Temperatura: 28.93283
+Umidade: 26.373907
+
+Sink recebeu do nó 41:
+Temperatura: 22.739792
+Umidade: 0.8395683
+
+Sink recebeu do nó 37:
+Temperatura: 19.008066
+Umidade: 49.86224
+
+Sink recebeu do nó 22:
+Temperatura: 29.87123
+Umidade: 44.13178
+
+Sink recebeu do nó 35:
+Temperatura: 0.69236004
+Umidade: 52.14412
+
+Sink recebeu do nó 41:
+Temperatura: 12.288101
+Umidade: 32.18021
+
+Sink recebeu do nó 37:
+Temperatura: 6.0532885
+Umidade: 11.217416
+
+Sink recebeu do nó 22:
+Temperatura: 40.91061
+Umidade: 67.160164
+
+Sink recebeu do nó 35:
+Temperatura: 34.37718
+Umidade: 64.714745
+
+Sink recebeu do nó 41:
+Temperatura: 12.39348
+Umidade: 23.81174
+
+Sink recebeu do nó 37:
+Temperatura: 38.39921
+Umidade: 17.740711
+
+Sink recebeu do nó 22:
+Temperatura: 14.408366
+Umidade: 43.206264
+
+Sink recebeu do nó 35:
+Temperatura: 18.230642
+Umidade: 3.1381621
+
+Sink recebeu do nó 41:
+Temperatura: 17.020624
+Umidade: 39.258987
+
+Sink recebeu do nó 37:
+Temperatura: 14.28376
+Umidade: 65.773926
+
+Sink recebeu do nó 22:
+Temperatura: 28.665142
+Umidade: 69.56309
+
+Sink recebeu do nó 35:
+Temperatura: 11.223719
+Umidade: 64.36598
+
+Sink recebeu do nó 41:
+Temperatura: 2.5024781
+Umidade: 46.235413
+
+Sink recebeu do nó 37:
+Temperatura: 1.1877457
+Umidade: 2.1965704
+
+Sink recebeu do nó 22:
+Temperatura: 32.101036
+Umidade: 28.683613
+
+Sink recebeu do nó 35:
+Temperatura: 19.91371
+Umidade: 28.820627
+
+Sink recebeu do nó 41:
+Temperatura: 32.531307
+Umidade: 42.3349
+
+Sink recebeu do nó 37:
+Temperatura: 0.5766246
+Umidade: 15.014172
+
+Sink recebeu do nó 22:
+Temperatura: 34.99052
+Umidade: 52.12646
+
+Sink recebeu do nó 35:
+Temperatura: 21.817116
+Umidade: 47.451714
+
+Sink recebeu do nó 41:
+Temperatura: 31.545664
+Umidade: 37.299385
+
+Sink recebeu do nó 37:
+Temperatura: 3.2751558
+Umidade: 12.866053
+
+Sink recebeu do nó 22:
+Temperatura: 15.333314
+Umidade: 35.10638
+
+Sink recebeu do nó 35:
+Temperatura: 10.933208
+Umidade: 24.90013
+
+Sink recebeu do nó 41:
+Temperatura: 37.960796
+Umidade: 27.581356
+
+Sink recebeu do nó 37:
+Temperatura: 4.195956
+Umidade: 18.188673
+
+Sink recebeu do nó 22:
+Temperatura: 3.1050215
+Umidade: 45.284378
+
+Sink recebeu do nó 35:
+Temperatura: 40.674576
+Umidade: 24.754135
+
+Sink recebeu do nó 41:
+Temperatura: 0.67975986
+Umidade: 64.71545
+
+Sink recebeu do nó 37:
+Temperatura: 25.28832
+Umidade: 18.749454
+
+Sink recebeu do nó 22:
+Temperatura: 21.23122
+Umidade: 42.31231
+
+Sink recebeu do nó 35:
+Temperatura: 27.146765
+Umidade: 16.178465
+
+Sink recebeu do nó 41:
+Temperatura: 39.10352
+Umidade: 27.724764
+
+Sink recebeu do nó 37:
+Temperatura: 38.62976
+Umidade: 58.835102
+
+Sink recebeu do nó 22:
+Temperatura: 3.4028437
+Umidade: 19.878944
+
+Sink recebeu do nó 35:
+Temperatura: 30.803339
+Umidade: 37.64082
+
+Sink recebeu do nó 41:
+Temperatura: 11.661022
+Umidade: 51.44213
+
+Sink recebeu do nó 37:
+Temperatura: 40.398422
+Umidade: 35.56569
+
+Sink recebeu do nó 22:
+Temperatura: 22.780993
+Umidade: 0.12972134
+
+Sink recebeu do nó 35:
+Temperatura: 28.828522
+Umidade: 23.60647
+
+Sink recebeu do nó 41:
+Temperatura: 9.169166
+Umidade: 50.10217
+
+Sink recebeu do nó 37:
+Temperatura: 23.897184
+Umidade: 57.33689
+
+Sink recebeu do nó 22:
+Temperatura: 0.25461853
+Umidade: 64.731255
+
+Sink recebeu do nó 35:
+Temperatura: 4.9069843
+Umidade: 19.462954
+
+Sink recebeu do nó 41:
+Temperatura: 25.119057
+Umidade: 20.877243
+
+Sink recebeu do nó 37:
+Temperatura: 38.881588
+Umidade: 8.426412
+
+Sink recebeu do nó 22:
+Temperatura: 16.488468
+Umidade: 10.174431
+
+Sink recebeu do nó 35:
+Temperatura: 14.501162
+Umidade: 20.629345
+
+Sink recebeu do nó 41:
+Temperatura: 2.7848775
+Umidade: 47.686848
+
+Sink recebeu do nó 37:
+Temperatura: 22.51498
+Umidade: 3.4580197
+
+Sink recebeu do nó 22:
+Temperatura: 16.668638
+Umidade: 9.76853
+
+Sink recebeu do nó 35:
+Temperatura: 22.58253
+Umidade: 18.156887
+
+Sink recebeu do nó 41:
+Temperatura: 12.695098
+Umidade: 39.519455
+
+Sink recebeu do nó 37:
+Temperatura: 21.702187
+Umidade: 17.14529
+
+Sink recebeu do nó 22:
+Temperatura: 5.440684
+Umidade: 36.95063
+
+Sink recebeu do nó 35:
+Temperatura: 13.645397
+Umidade: 63.17014
+
+Sink recebeu do nó 41:
+Temperatura: 27.169622
+Umidade: 62.86295
+
+Sink recebeu do nó 37:
+Temperatura: 34.3467
+Umidade: 49.698967
+
+Sink recebeu do nó 22:
+Temperatura: 28.241222
+Umidade: 39.291157
+
+Sink recebeu do nó 35:
+Temperatura: 4.179776
+Umidade: 9.96156
+
+Sink recebeu do nó 41:
+Temperatura: 1.8458145
+Umidade: 6.832624
+
+Sink recebeu do nó 37:
+Temperatura: 16.770044
+Umidade: 58.036728
+
+Sink recebeu do nó 22:
+Temperatura: 32.41861
+Umidade: 24.449263
+
+Sink recebeu do nó 35:
+Temperatura: 7.0376644
+Umidade: 59.832497
+
+Sink recebeu do nó 41:
+Temperatura: 33.379585
+Umidade: 21.685251
+
+Sink recebeu do nó 37:
+Temperatura: 18.19423
+Umidade: 49.34413
+
+Sink recebeu do nó 22:
+Temperatura: 1.144212
+Umidade: 7.720889
+
+Sink recebeu do nó 35:
+Temperatura: 1.1894857
+Umidade: 40.51077
+
+Sink recebeu do nó 41:
+Temperatura: 36.984657
+Umidade: 19.790213
+
+Sink recebeu do nó 37:
+Temperatura: 28.376987
+Umidade: 33.454163
+
+Sink recebeu do nó 22:
+Temperatura: 38.22217
+Umidade: 70.50129
+
+Sink recebeu do nó 35:
+Temperatura: 9.645166
+Umidade: 1.7007025
+
+Sink recebeu do nó 41:
+Temperatura: 18.28206
+Umidade: 20.375202
+
+Sink recebeu do nó 37:
+Temperatura: 38.345715
+Umidade: 24.432741
+
+Sink recebeu do nó 22:
+Temperatura: 28.321396
+Umidade: 0.06741041
+
+Sink recebeu do nó 35:
+Temperatura: 4.680941
+Umidade: 36.780037
+
+Sink recebeu do nó 41:
+Temperatura: 3.57256
+Umidade: 29.349377
+
+Sink recebeu do nó 37:
+Temperatura: 7.1053867
+Umidade: 6.5077558
+
+Sink recebeu do nó 22:
+Temperatura: 39.268967
+Umidade: 57.39971
+
+Sink recebeu do nó 35:
+Temperatura: 1.137147
+Umidade: 51.558514
+
+Sink recebeu do nó 41:
+Temperatura: 18.50192
+Umidade: 26.831293
+
+Sink recebeu do nó 37:
+Temperatura: 26.4274
+Umidade: 42.666058
+
+Sink recebeu do nó 22:
+Temperatura: 1.8798662
+Umidade: 9.864531
+
+Sink recebeu do nó 35:
+Temperatura: 36.896664
+Umidade: 34.833923
+
+Sink recebeu do nó 41:
+Temperatura: 35.842674
+Umidade: 55.91356
+
+Sink recebeu do nó 37:
+Temperatura: 26.261412
+Umidade: 38.42298
+
+Sink recebeu do nó 22:
+Temperatura: 25.575684
+Umidade: 22.545326
+
+Sink recebeu do nó 35:
+Temperatura: 39.66899
+Umidade: 25.649235
+
+Sink recebeu do nó 41:
+Temperatura: 37.621918
+Umidade: 9.996013
+
+Sink recebeu do nó 37:
+Temperatura: 29.547606
+Umidade: 33.587948
+
+Sink recebeu do nó 22:
+Temperatura: 32.388035
+Umidade: 68.334854
+
+Sink recebeu do nó 35:
+Temperatura: 38.726185
+Umidade: 44.528217
+
+Sink recebeu do nó 41:
+Temperatura: 2.9204712
+Umidade: 58.706425
+
+Sink recebeu do nó 37:
+Temperatura: 3.8190947
+Umidade: 36.55609
+
+Sink recebeu do nó 22:
+Temperatura: 18.28324
+Umidade: 40.05704
+
+Sink recebeu do nó 35:
+Temperatura: 32.723465
+Umidade: 61.17033
+
+Sink recebeu do nó 41:
+Temperatura: 19.43387
+Umidade: 20.483269
+
+Sink recebeu do nó 37:
+Temperatura: 6.724695
+Umidade: 54.33259
+
+Sink recebeu do nó 22:
+Temperatura: 6.896641
+Umidade: 14.989846
+
+Sink recebeu do nó 35:
+Temperatura: 23.769022
+Umidade: 25.59602
+
+Sink recebeu do nó 41:
+Temperatura: 10.516341
+Umidade: 25.057163
+
+Sink recebeu do nó 37:
+Temperatura: 7.059925
+Umidade: 31.652266
+
+Sink recebeu do nó 22:
+Temperatura: 4.9831524
+Umidade: 48.487347
+
+Sink recebeu do nó 35:
+Temperatura: 25.29528
+Umidade: 7.6479816
+
+Sink recebeu do nó 41:
+Temperatura: 17.447891
+Umidade: 27.721836
+
+Sink recebeu do nó 37:
+Temperatura: 18.66938
+Umidade: 29.141779
+
+Sink recebeu do nó 22:
+Temperatura: 1.8242798
+Umidade: 38.758823
+
+Sink recebeu do nó 35:
+Temperatura: 14.529219
+Umidade: 34.904
+
+Sink recebeu do nó 41:
+Temperatura: 37.72861
+Umidade: 41.763355
+
+Sink recebeu do nó 37:
+Temperatura: 7.2907777
+Umidade: 41.906914
+
+Sink recebeu do nó 22:
+Temperatura: 3.8899596
+Umidade: 24.394573
+
+Sink recebeu do nó 35:
+Temperatura: 2.6933234
+Umidade: 66.10436
+
+Sink recebeu do nó 41:
+Temperatura: 28.735533
+Umidade: 3.8741667
+
+Sink recebeu do nó 37:
+Temperatura: 2.8512144
+Umidade: 70.2793
+
+Sink recebeu do nó 22:
+Temperatura: 27.89672
+Umidade: 26.862686
+
+Sink recebeu do nó 35:
+Temperatura: 21.793003
+Umidade: 46.01283
+
+Sink recebeu do nó 41:
+Temperatura: 36.047855
+Umidade: 59.308964
+
+Sink recebeu do nó 37:
+Temperatura: 7.3683925
+Umidade: 4.190495
+
+Sink recebeu do nó 22:
+Temperatura: 9.306963
+Umidade: 55.37864
+
+Sink recebeu do nó 35:
+Temperatura: 17.244513
+Umidade: 65.84584
+
+Sink recebeu do nó 41:
+Temperatura: 19.612314
+Umidade: 31.5836
+
+Sink recebeu do nó 37:
+Temperatura: 18.056578
+Umidade: 20.19198
+
+Sink recebeu do nó 22:
+Temperatura: 21.5549
+Umidade: 40.55099
+
+Sink recebeu do nó 35:
+Temperatura: 36.90781
+Umidade: 70.01021
+
+Sink recebeu do nó 41:
+Temperatura: 0.16822565
+Umidade: 6.2828627
+
+Sink recebeu do nó 37:
+Temperatura: 35.86706
+Umidade: 11.107085
+
+Sink recebeu do nó 22:
+Temperatura: 40.60883
+Umidade: 43.39786
+
+Sink recebeu do nó 35:
+Temperatura: 22.264462
+Umidade: 43.540714
+
+Sink recebeu do nó 41:
+Temperatura: 36.35292
+Umidade: 19.710997
+
+Sin 21.16353
+
+Sink recebeu do nó 25:
+Temperatura: 17.984924
+Umidade: 33.21808
+
+Sink recebeu do nó 29:
+Temperatura: 7.983409
+Umidade: 70.870224
+
+Sink recebeu do nó 51:
+Temperatura: 39.591812
+Umidade: 34.25903
+
+Sink recebeu do nó 15:
+Temperatura: 29.108706
+Umidade: 63.113308
+
+Sink recebeu do nó 32:
+Temperatura: 17.681835
+Umidade: 5.8908253
+
+Sink recebeu do nó 12:
+Temperatura: 28.148123
+Umidade: 20.309263
+
+Sink recebeu do nó 16:
+Temperatura: 19.656952
+Umidade: 61.26311
+
+Sink recebeu do nó 25:
+Temperatura: 23.142124
+Umidade: 11.768353
+
+Sink recebeu do nó 29:
+Temperatura: 24.866846
+Umidade: 57.303085
+
+Sink recebeu do nó 51:
+Temperatura: 2.2776444
+Umidade: 13.068119
+
+Sink recebeu do nó 15:
+Temperatura: 1.7344118
+Umidade: 69.52312
+
+Sink recebeu do nó 32:
+Temperatura: 15.211065
+Umidade: 26.787514
+
+Sink recebeu do nó 12:
+Temperatura: 1.4319317
+Umidade: 34.126453
+
+Sink recebeu do nó 16:
+Temperatura: 27.39436
+Umidade: 30.510775
+
+Sink recebeu do nó 25:
+Temperatura: 21.69954
+Umidade: 42.694927
+
+Sink recebeu do nó 29:
+Temperatura: 30.421581
+Umidade: 42.92502
+
+Sink recebeu do nó 51:
+Temperatura: 7.888047
+Umidade: 42.46582
+
+Sink recebeu do nó 15:
+Temperatura: 1.0902066
+Umidade: 60.946095
+
+Sink recebeu do nó 32:
+Temperatura: 4.6365595
+Umidade: 23.162394
+
+Sink recebeu do nó 12:
+Temperatura: 30.403458
+Umidade: 56.981148
+
+Sink recebeu do nó 16:
+Temperatura: 19.558727
+Umidade: 41.423584
+
+Sink recebeu do nó 25:
+Temperatura: 24.47257
+Umidade: 2.5756245
+
+Sink recebeu do nó 29:
+Temperatura: 6.94014
+Umidade: 33.864834
+
+Sink recebeu do nó 51:
+Temperatura: 33.550247
+Umidade: 49.02994
+
+Sink recebeu do nó 15:
+Temperatura: 2.9088657
+Umidade: 48.61298
+
+Sink recebeu do nó 32:
+Temperatura: 31.021288
+Umidade: 16.573067
+
+Sink recebeu do nó 12:
+Temperatura: 36.036083
+Umidade: 0.11817241
+
+Sink recebeu do nó 16:
+Temperatura: 7.7777467
+Umidade: 30.574783
+
+Sink recebeu do nó 25:
+Temperatura: 34.061005
+Umidade: 56.509712
+
+Sink recebeu do nó 29:
+Temperatura: 29.918913
+Umidade: 14.231116
+
+Sink recebeu do nó 51:
+Temperatura: 26.67129
+Umidade: 46.827824
+
+Sink recebeu do nó 15:
+Temperatura: 9.307088
+Umidade: 36.85013
+
+Sink recebeu do nó 32:
+Temperatura: 28.994682
+Umidade: 55.898952
+
+Sink recebeu do nó 12:
+Temperatura: 8.638225
+Umidade: 8.802943
+
+Sink recebeu do nó 16:
+Temperatura: 2.644648
+Umidade: 58.475464
+
+Sink recebeu do nó 25:
+Temperatura: 0.74305403
+Umidade: 62.47508
+
+Sink recebeu do nó 29:
+Temperatura: 0.9739531
+Umidade: 50.061974
+
+Sink recebeu do nó 51:
+Temperatura: 34.686855
+Umidade: 62.52379
+
+Sink recebeu do nó 15:
+Temperatura: 32.544384
+Umidade: 32.650154
+
+Sink recebeu do nó 32:
+Temperatura: 15.087146
+Umidade: 4.962234
+
+Sink recebeu do nó 12:
+Temperatura: 30.154427
+Umidade: 14.897197
+
+Sink recebeu do nó 16:
+Temperatura: 7.6905255
+Umidade: 36.51226
+
+Sink recebeu do nó 25:
+Temperatura: 6.9338717
+Umidade: 24.729717
+
+Sink recebeu do nó 29:
+Temperatura: 29.423443
+Umidade: 27.743406
+
+Sink recebeu do nó 51:
+Temperatura: 28.924828
+Umidade: 4.852064
+
+Sink recebeu do nó 15:
+Temperatura: 25.602589
+Umidade: 17.030724
+
+Sink recebeu do nó 32:
+Temperatura: 8.31607
+Umidade: 21.98892
+
+Sink recebeu do nó 12:
+Temperatura: 6.6998224
+Umidade: 11.901194
+
+Sink recebeu do nó 16:
+Temperatura: 17.899105
+Umidade: 1.5600629
+
+Sink recebeu do nó 25:
+Temperatura: 20.161242
+Umidade: 36.18326
+
+Sink recebeu do nó 29:
+Temperatura: 20.460066
+Umidade: 52.404457
+
+Sink recebeu do nó 51:
+Temperatura: 16.748251
+Umidade: 13.983536
+
+Sink recebeu do nó 15:
+Temperatura: 10.672803
+Umidade: 63.9917
+
+Sink recebeu do nó 32:
+Temperatura: 32.818542
+Umidade: 42.973385
+
+Sink recebeu do nó 12:
+Temperatura: 40.554928
+Umidade: 44.56933
+
+Sink recebeu do nó 16:
+Temperatura: 25.898115
+Umidade: 8.432471
+
+Sink recebeu do nó 25:
+Temperatura: 16.333853
+Umidade: 70.24863
+
+Sink recebeu do nó 29:
+Temperatura: 20.36698
+Umidade: 2.6920278
+
+Sink recebeu do nó 51:
+Temperatura: 20.219194
+Umidade: 66.486946
+
+Sink recebeu do nó 15:
+Temperatura: 20.627678
+Umidade: 21.854053
+
+Sink recebeu do nó 32:
+Temperatura: 38.200447
+Umidade: 14.540522
+
+Sink recebeu do nó 12:
+Temperatura: 23.954245
+Umidade: 6.561315
+
+Sink recebeu do nó 16:
+Temperatura: 37.027225
+Umidade: 57.008286
+
+Sink recebeu do nó 25:
+Temperatura: 33.267365
+Umidade: 47.35525
+
+Sink recebeu do nó 29:
+Temperatura: 6.4875255
+Umidade: 38.92243
+
+Sink recebeu do nó 51:
+Temperatura: 8.632338
+Umidade: 59.49256
+
+Sink recebeu do nó 15:
+Temperatura: 37.61655
+Umidade: 34.763515
+
+Sink recebeu do nó 32:
+Temperatura: 20.470934
+Umidade: 11.52137
+
+Sink recebeu do nó 12:
+Temperatura: 24.319954
+Umidade: 51.06342
+
+Sink recebeu do nó 16:
+Temperatura: 21.0088
+Umidade: 65.84112
+
+Sink recebeu do nó 25:
+Temperatura: 3.4701285
+Umidade: 42.35587
+
+Sink recebeu do nó 29:
+Temperatura: 38.435608
+Umidade: 4.5678053
+
+Sink recebeu do nó 51:
+Temperatura: 27.77579
+Umidade: 10.697841
+
+Sink recebeu do nó 15:
+Temperatura: 38.419827
+Umidade: 0.35717487
+
+Sink recebeu do nó 32:
+Temperatura: 40.88269
+Umidade: 27.426159
+
+Sink recebeu do nó 12:
+Temperatura: 34.592144
+Umidade: 35.38171
+
+Sink recebeu do nó 16:
+Temperatura: 18.01778
+Umidade: 13.799836
+
+Sink recebeu do nó 25:
+Temperatura: 11.743532
+Umidade: 26.672617
+
+Sink recebeu do nó 29:
+Temperatura: 19.151106
+Umidade: 50.72129
+
+Sink recebeu do nó 51:
+Temperatura: 10.804489
+Umidade: 62.9799
+
+Sink recebeu do nó 15:
+Temperatura: 6.4686766
+Umidade: 35.33083
+
+Sink recebeu do nó 32:
+Temperatura: 17.288473
+Umidade: 43.00391
+
+Sink recebeu do nó 12:
+Temperatura: 16.796497
+Umidade: 8.3120775
+
+Sink recebeu do nó 16:
+Temperatura: 2.1490204
+Umidade: 40.32018
+
+Sink recebeu do nó 25:
+Temperatura: 20.340597
+Umidade: 12.118829
+
+Sink recebeu do nó 29:
+Temperatura: 11.549351
+Umidade: 36.852543
+
+Sink recebeu do nó 51:
+Temperatura: 5.1999607
+Umidade: 29.243689
+
+Sink recebeu do nó 15:
+Temperatura: 3.9320295
+Umidade: 57.76251
+
+Sink recebeu do nó 32:
+Temperatura: 34.307354
+Umidade: 61.32778
+
+Sink recebeu do nó 12:
+Temperatura: 29.854673
+Umidade: 62.167114
+
+Sink recebeu do nó 16:
+Temperatura: 15.917155
+Umidade: 36.744846
+
+Sink recebeu do nó 25:
+Temperatura: 31.203222
+Umidade: 35.481396
+
+Sink recebeu do nó 29:
+Temperatura: 3.1588557
+Umidade: 22.835087
+
+Sink recebeu do nó 51:
+Temperatura: 36.486443
+Umidade: 6.895786
+
+Sink recebeu do nó 15:
+Temperatura: 15.731226
+Umidade: 51.487766
+
+Sink recebeu do nó 32:
+Temperatura: 23.911982
+Umidade: 19.219555
+
+Sink recebeu do nó 12:
+Temperatura: 13.253893
+Umidade: 29.631092
+
+Sink recebeu do nó 16:
+Temperatura: 19.8846
+Umidade: 1.3969516
+
+Sink recebeu do nó 25:
+Temperatura: 27.615223
+Umidade: 47.434483
+
+Sink recebeu do nó 29:
+Temperatura: 27.66933
+Umidade: 6.7490945
+
+Sink recebeu do nó 51:
+Temperatura: 24.401915
+Umidade: 35.208992
+
+Sink recebeu do nó 15:
+Temperatura: 8.768675
+Umidade: 34.88124
+
+Sink recebeu do nó 32:
+Temperatura: 7.5688124
+Umidade: 70.89585
+
+Sink recebeu do nó 12:
+Temperatura: 8.469621
+Umidade: 29.610386
+
+Sink recebeu do nó 16:
+Temperatura: 9.048043
+Umidade: 15.134955
+
+Sink recebeu do nó 25:
+Temperatura: 19.803791
+Umidade: 24.874725
+
+Sink recebeu do nó 29:
+Temperatura: 4.198901
+Umidade: 1.7514391
+
+Sink recebeu do nó 51:
+Temperatura: 24.810133
+Umidade: 26.294758
+
+Sink recebeu do nó 15:
+Temperatura: 21.294228
+Umidade: 66.09943
+
+Sink recebeu do nó 32:
+Temperatura: 37.667305
+Umidade: 65.06924
+
+Sink recebeu do nó 12:
+Temperatura: 0.9539385
+Umidade: 8.822698
+
+Sink recebeu do nó 16:
+Temperatura: 5.5394816
+Umidade: 20.549154
+
+Sink recebeu do nó 25:
+Temperatura: 21.200869
+Umidade: 30.258188
+
+Sink recebeu do nó 29:
+Temperatura: 23.552692
+Umidade: 44.47685
+
+Sink recebeu do nó 51:
+Temperatura: 4.232887
+Umidade: 63.109715
+
+Sink recebeu do nó 15:
+Temperatura: 10.220662
+Umidade: 1.047483
+
+Sink recebeu do nó 32:
+Temperatura: 29.02043
+Umidade: 69.79104
+
+Sink recebeu do nó 12:
+Temperatura: 24.609861
+Umidade: 29.80581
+
+Sink recebeu do nó 16:
+Temperatura: 38.02547
+Umidade: 52.34907
+
+Sink recebeu do nó 25:
+Temperatura: 13.672206
+Umidade: 50.15944
+
+Sink recebeu do nó 29:
+Temperatura: 17.344473
+Umidade: 33.24604
+
+Sink recebeu do nó 51:
+Temperatura: 24.121525
+Umidade: 70.665115
+
+Sink recebeu do nó 15:
+Temperatura: 35.50131
+Umidade: 46.450657
+
+Sink recebeu do nó 3
